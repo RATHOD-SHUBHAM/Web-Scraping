@@ -12,6 +12,9 @@ Some website providers offer Application Programming Interfaces (APIs) that allo
 ## Website - Metacritic
 Metacritic is a website that aggregates reviews of films, TV shows, music albums, video games and formerly, books. For each product, the scores from each review are averaged.
 
+<img width="1240" alt="Screen Shot 2021-06-01 at 5 09 30 PM" src="https://user-images.githubusercontent.com/58945964/120397612-39ac3180-c2fe-11eb-81d9-3f442a52f833.png">
+
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Program Execution Steps:
