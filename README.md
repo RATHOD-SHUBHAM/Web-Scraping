@@ -29,7 +29,7 @@ First line will be the heading ['Movie Name', 'Movie Detail Link' 'Directors','C
 Next 500 line will be there associated information. So total 501 lines [ 1 header + 500 movies ]
 
 
-==========================================================================================================
+==============================================================================================
 
 
 ## Reading Into Database:
@@ -38,7 +38,7 @@ First line will be the heading ['Movie Name', 'Movie Detail Link' 'Directors','C
 Next 500 line will be there associated information.
 
 
-=======================================================================================================
+============================================================================================
 
 ## Program Flow: 
 
