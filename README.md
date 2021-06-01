@@ -21,8 +21,7 @@ Some website providers offer Application Programming Interfaces (APIs) that allo
 4. Ask the user to enter a valid actor name.
 If one of the actor name is wrong it will ask for that particular actor name
 
-========================================================================================================================================
-
+============================================================================================
 
 ## Reading Into CSV:
 
@@ -30,7 +29,7 @@ First line will be the heading ['Movie Name', 'Movie Detail Link' 'Directors','C
 Next 500 line will be there associated information. So total 501 lines [ 1 header + 500 movies ]
 
 
-=============================================================================================================================
+==========================================================================================================
 
 
 ## Reading Into Database:
@@ -39,8 +38,7 @@ First line will be the heading ['Movie Name', 'Movie Detail Link' 'Directors','C
 Next 500 line will be there associated information.
 
 
-=====================================================================================================================================
-
+=======================================================================================================
 
 ## Program Flow: 
 
