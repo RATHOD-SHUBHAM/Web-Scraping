@@ -8,7 +8,7 @@ Web scraping is the process of gathering information from the Internet or extrac
 Some website providers offer Application Programming Interfaces (APIs) that allow you to access their data in a predefined manner. With APIs, you can avoid parsing HTML and instead access the data directly using formats like JSON and XML. 
 
 
-================================================================================================================
+========================================================================================
 
 ## Program Execution Steps:
 
