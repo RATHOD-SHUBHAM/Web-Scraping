@@ -7,6 +7,10 @@ Web scraping is the process of gathering information from the Internet or extrac
 ## APIs: An Alternative to Web Scraping
 Some website providers offer Application Programming Interfaces (APIs) that allow you to access their data in a predefined manner. With APIs, you can avoid parsing HTML and instead access the data directly using formats like JSON and XML. 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Website - Metacritic
+Metacritic is a website that aggregates reviews of films, TV shows, music albums, video games and formerly, books. For each product, the scores from each review are averaged.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
